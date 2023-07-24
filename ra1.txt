@@ -1,2 +1,4 @@
 hello hai
 how are you
+this is Rahul
+doing push and pull functions
